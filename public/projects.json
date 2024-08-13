@@ -1,0 +1,19 @@
+
+
+
+[
+    {
+        "id": 1,
+        "title": "Ecomerce Website Design",
+        "description": "A visually appealing and user-friendly ecommerce website is essential for businesses in the digital age. At [Your Company Name], we specialize in crafting custom ecommerce solutions that captivate customers and drive conversions.Our team of designers and developers will create an online store tailored to your brand and business needs. From intuitive navigation to seamless checkout experiences, we'll help you build an ecommerce website that stands out in the digital landscape.Elevate your online sales and enhance your brand's digital footprint with our ecommerce website design expertise. Contact us today to get started.",
+        "image": "images/images8.jpeg",
+        "link": "https://example.com/project-one"
+      },
+      {
+        "id": 2,
+        "title": "Ecomerce Website Design",
+        "description": "A visually appealing and user-friendly ecommerce website is essential for businesses in the digital age. At [Your Company Name], we specialize in crafting custom ecommerce solutions that captivate customers and drive conversions.Our team of designers and developers will create an online store tailored to your brand and business needs. From intuitive navigation to seamless checkout experiences, we'll help you build an ecommerce website that stands out in the digital landscape.Elevate your online sales and enhance your brand's digital footprint with our ecommerce website design expertise. Contact us today to get started.",
+        "image": "images/images8.jpeg",
+        "link": "https://example.com/project-one"
+      }
+    ]
